@@ -1,3 +1,7 @@
+http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep
+
+
+
 # Backbone Tutorials
 
 This site is by no means the definitive guide to backbone.js and all corrections and contributions are welcome.
