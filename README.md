@@ -1,6 +1,6 @@
 http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep
 
-
+http://backbonetutorials.com/organizing-backbone-using-modules/
 
 # Backbone Tutorials
 
